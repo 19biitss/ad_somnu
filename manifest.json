@@ -1,0 +1,26 @@
+
+{
+  "short_name": "Ad Somnum",
+  "name": "Ad Somnum: Higiene del Sueño",
+  "description": "Herramienta avanzada para combatir el insomnio tecnológico y mejorar el descanso nocturno.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/9373/9373972.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/9373/9373972.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#020617",
+  "background_color": "#020617",
+  "categories": ["health", "lifestyle"]
+}
